@@ -1,5 +1,7 @@
 # battleship-game
 
+#THE BATTLESHIP GAME
+
 #This game is a computer version of the classic two-player Battleship game in which each player attempts to sink their opponent's fleet of ships before the opponent sinks theirs. 
 
 #Here is how you play it:

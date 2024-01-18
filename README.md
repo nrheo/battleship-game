@@ -5,6 +5,7 @@ The game is an online version of the classic two-player Battleship game in which
 
 ## Game Set Up:
 Each player has a number of different ships:
+
   a. An aircraft carrier which is 5 segments long: AAAAA
   b. A battleship which is 4 segments long: BBBB
   c. A destroyer which is 3 segments long: DDD

@@ -7,9 +7,13 @@ The game is an online version of the classic two-player Battleship game in which
 Each player has a number of different ships:
 
   a. An aircraft carrier which is 5 segments long: AAAAA
+  
   b. A battleship which is 4 segments long: BBBB
+  
   c. A destroyer which is 3 segments long: DDD
+  
   d. A submarine which is 3 segments long: SSS
+  
   e. A patrol boat which is 2 segments long: PP
 
 Each player has their own 10 x 10 board in which they place their ships. Each ship may be palced horizontally or vertically, but not diagonally. No ship may overlap another on the board. Each player sees only their own board; they cannot see where their opponent has placed their ships.

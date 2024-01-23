@@ -1,4 +1,4 @@
-# battleship-game
+# 2D Online Battleship Game
 
 ## Introduction:
 The game is an online version of the classic two-player Battleship game in which each player attempts to sink their opponent's fleet of ships before the opponent sinks theirs.

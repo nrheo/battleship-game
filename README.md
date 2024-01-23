@@ -27,6 +27,8 @@ If a player has sunk the entire ship, the opponent must indicate which ship was 
 
 Attacks alternate between players until one player has sunk all of the other player's ships. The first player to sink all of their opponent's ships wins the game.
 
+<img width="1090" alt="battleship" src="https://github.com/nrheo/battleship-game/assets/154557592/ea40a411-c435-4d82-aaab-0b6fa24cfc2d">
+
 ## Technical Features:
 The Board class maintains the board data structure of my project. I represented the board as a two-dimensional array and used indexes to locate each the player’s ships. The Board member functions record the location and damage of the player’s ships for each player by looping through each spot of the array.
 
